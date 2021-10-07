@@ -4,9 +4,9 @@
 
 Öncelikle ikiye ayıracağız. 
 
-[16,21,11]                                                       [8,12,22] #
-(bunu da 2'ye)
-[16,21]    [11]                                                [8,12]    [22]
+1.ayrım [16,21,11]      //                                                 [8,12,22] 
+     (bunu da 2'ye) //
+[16,21] //   [11]                                                [8,12]    [22]
 (bunu da 2'ye)
                                                                 [8]   [12]    [22](zaten tek kalmıştı)
 [16]   [21]   [11](zaten tek kalmıştı)
